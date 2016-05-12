@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="App6.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App6"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <Grid Name="g1">
+        <Button x:ConnectionId='1' x:Name="b00"              Content="A" HorizontalAlignment="Left" Margin="4,134,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='2' x:Name="b01"              Content="A" HorizontalAlignment="Left" Margin="67,134,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='3' x:Name="b02"              Content="A" HorizontalAlignment="Left" Margin="130,134,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='4' x:Name="b03"              Content="A" HorizontalAlignment="Left" Margin="193,134,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='5' x:Name="b04"              Content="A" HorizontalAlignment="Left" Margin="256,134,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='6' x:Name="b05"              Content="A" HorizontalAlignment="Left" Margin="319,134,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='7' x:Name="b10"              Content="A" HorizontalAlignment="Left" Margin="4,188,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='8' x:Name="b11"              Content="A" HorizontalAlignment="Left" Margin="67,188,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='9' x:Name="b12"              Content="A" HorizontalAlignment="Left" Margin="130,188,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='10' x:Name="b13"              Content="A" HorizontalAlignment="Left" Margin="193,188,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='11' x:Name="b14"              Content="A" HorizontalAlignment="Left" Margin="256,188,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='12' x:Name="b15"              Content="A" HorizontalAlignment="Left" Margin="319,188,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='13' x:Name="b20"              Content="A" HorizontalAlignment="Left" Margin="4,242,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='14' x:Name="b21"              Content="A" HorizontalAlignment="Left" Margin="67,242,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='15' x:Name="b22"              Content="A" HorizontalAlignment="Left" Margin="130,242,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='16' x:Name="b23"              Content="A" HorizontalAlignment="Left" Margin="193,242,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='17' x:Name="b24"              Content="A" HorizontalAlignment="Left" Margin="256,242,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='18' x:Name="b25"              Content="A" HorizontalAlignment="Left" Margin="319,242,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='19' x:Name="b30"              Content="A" HorizontalAlignment="Left" Margin="4,296,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='20' x:Name="b31"              Content="A" HorizontalAlignment="Left" Margin="67,296,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='21' x:Name="b32"              Content="A" HorizontalAlignment="Left" Margin="130,296,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='22' x:Name="b33"              Content="A" HorizontalAlignment="Left" Margin="193,296,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='23' x:Name="b34"              Content="A" HorizontalAlignment="Left" Margin="256,296,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='24' x:Name="b35"              Content="A" HorizontalAlignment="Left" Margin="319,296,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='25' x:Name="b40"              Content="A" HorizontalAlignment="Left" Margin="4,350,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='26' x:Name="b41"              Content="A" HorizontalAlignment="Left" Margin="67,350,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='27' x:Name="b42"              Content="A" HorizontalAlignment="Left" Margin="130,350,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='28' x:Name="b43"              Content="A" HorizontalAlignment="Left" Margin="193,350,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='29' x:Name="b44"              Content="A" HorizontalAlignment="Left" Margin="256,350,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='30' x:Name="b45"              Content="A" HorizontalAlignment="Left" Margin="319,350,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='31' x:Name="b50"              Content="A" HorizontalAlignment="Left" Margin="4,404,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='32' x:Name="b51"              Content="A" HorizontalAlignment="Left" Margin="67,404,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='33' x:Name="b52"              Content="A" HorizontalAlignment="Left" Margin="130,404,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='34' x:Name="b53"              Content="A" HorizontalAlignment="Left" Margin="193,404,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='35' x:Name="b54"              Content="A" HorizontalAlignment="Left" Margin="256,404,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='36' x:Name="b55"              Content="A" HorizontalAlignment="Left" Margin="319,404,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='37' x:Name="b60"              Content="A" HorizontalAlignment="Left" Margin="4,458,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='38' x:Name="b61"              Content="A" HorizontalAlignment="Left" Margin="67,458,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='39' x:Name="b62"              Content="A" HorizontalAlignment="Left" Margin="130,458,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='40' x:Name="b63"              Content="A" HorizontalAlignment="Left" Margin="193,458,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='41' x:Name="b64"              Content="A" HorizontalAlignment="Left" Margin="256,458,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='42' x:Name="b65"              Content="A" HorizontalAlignment="Left" Margin="319,458,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='43' x:Name="b70"              Content="A" HorizontalAlignment="Left" Margin="4,512,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='44' x:Name="b71"              Content="A" HorizontalAlignment="Left" Margin="67,512,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='45' x:Name="b72"              Content="A" HorizontalAlignment="Left" Margin="130,512,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='46' x:Name="b73"              Content="A" HorizontalAlignment="Left" Margin="193,512,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='47' x:Name="b74"              Content="A" HorizontalAlignment="Left" Margin="256,512,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <Button x:ConnectionId='48' x:Name="b75"              Content="A" HorizontalAlignment="Left" Margin="319,512,0,0" VerticalAlignment="Top" MinWidth="0" MinHeight="0" Width="58" Height="68" ClickMode="Press" Background="Red" FontSize="36"/>
+        <TextBlock Name="sc1" HorizontalAlignment="Left" Margin="4,73,0,0" TextWrapping="Wrap" Text="Score : 0" VerticalAlignment="Top" FontSize="48" Width="211"/>
+        <TextBlock HorizontalAlignment="Left" Margin="4,10,0,0" TextWrapping="Wrap" Text="Swap" VerticalAlignment="Top" FontSize="48"/>
+        <TextBlock x:Name="liv" HorizontalAlignment="Left" Margin="220,84,0,0" TextWrapping="Wrap" Text="Lives : 10" VerticalAlignment="Top" FontSize="36" Width="170"/>
+    </Grid>
+</Page>
+
